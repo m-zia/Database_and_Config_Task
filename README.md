@@ -10,9 +10,6 @@
 -   [Supertest](https://www.npmjs.com/package/supertest)
 -   [ESLint](https://eslint.org/)
 
-### How to Get Started
-
--   Fork this repo to your Github and then clone the forked version of this repo
 
 ### Running the application
 
