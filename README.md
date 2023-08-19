@@ -65,3 +65,16 @@ to add in exception handling to the project?
 
 -   Clue 2: What if someone wants to find a book by an ID that doesn't yet exist?
     How can we improve the API by handling errors gracefully and show a helpful message to the client?
+
+
+
+### General Notes
+
+- It is possible to manually write all of our database code, including manually writing SQL commands to execute, but it is
+much easier and safer to use a library which abstracts over the database. Sequelize is one of the most popular JavaScript (and hence TypeScript) libraries for connecting to databases.
+
+- A connection string is what it sounds like: a string which tells a database library how to connect to a particular database or server. These come in all shapes and sizes, depending on which kind of database we’re connecting to. You can find handy reference for many different types of connection string at ConnectionStrings.com
+
+- https://sequelize.org/docs/v6/core-concepts/model-basics/
+
+
