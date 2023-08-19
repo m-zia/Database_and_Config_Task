@@ -50,24 +50,6 @@ Followed by:
 npm test
 ```
 
-### Tasks
-
-Here are some tasks for you to work on:
-
-📘 Task 1: Implement the following User Story with tests.
-
-`User Story: As a user, I want to use the Book Manager API to delete a book using its ID`
-
-📘 Extension Task: Oh no! 😭 We've only covered the happy paths in the solution, can you figure out a way
-to add in exception handling to the project?
-
--   Clue 1: What if someone wants to add a book with an ID for a book that already exists? How do we handle this gracefully?
-
--   Clue 2: What if someone wants to find a book by an ID that doesn't yet exist?
-    How can we improve the API by handling errors gracefully and show a helpful message to the client?
-
-
-
 ### General Notes
 
 - It is possible to manually write all of our database code, including manually writing SQL commands to execute, but it is
