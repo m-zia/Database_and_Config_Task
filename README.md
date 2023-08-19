@@ -1,13 +1,5 @@
 # 📖 Minimalist Book Manager API
 
-## Introduction
-
-This is the starter repository for the Further APIs session. It provides a start to creating a Minimalist Book Manager API.
-
-### Pre-Requisites
-
--   NodeJS installed (v18.12.1 Long Term Support version at time of writing)
-
 ### Technologies & Dependencies
 
 -   [TypeScript](https://www.typescriptlang.org/)
